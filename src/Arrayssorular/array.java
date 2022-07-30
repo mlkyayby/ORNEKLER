@@ -17,7 +17,7 @@ public class array {
         arr[0]=str;
 
         System.out.println(Arrays.toString(arr));
-
+       //****
 
 
 
